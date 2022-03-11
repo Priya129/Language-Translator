@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "203920904379",
+    "project_id": "translan-fabe5",
+    "storage_bucket": "translan-fabe5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203920904379:android:3c84cdc69bb15e1e59199e",
+        "android_client_info": {
+          "package_name": "com.example.language_translator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203920904379-c9l5u2ckj2e974dqbull5fe21lj7ad47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtV48NIfpH7vYyldOdIqALwNMER9MZDF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203920904379-c9l5u2ckj2e974dqbull5fe21lj7ad47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
